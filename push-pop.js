@@ -1,19 +1,26 @@
-var backBench = ["katy", "joe", "jim", "jane"];
-backBench.push("jimmy");
-backBench.push("simon");
-// console.log(backBench);
+//push means add element to to an array
 
-//add element  of the array
+var backBence = ['asif','alam','bence'];
+backBence.push('bence345');
+backBence.push('bence346');
+backBence.push('bence790');
+backBence.push('sudeb');
+backBence.push('sk sukumar');
+console.log(backBence);
 
-var friendAge = [23, 45, 12, 99];
-// friendAge.push(100);
-// console.log(friendAge);
+var friendAge = [12, 23, 34, 45, 56, 67, 78, 89, 90];
+/* friendAge.push(100);
+console.log(friendAge);
 
+//pop means remove element from an array
 friendAge.pop();
 friendAge.pop();
-friendAge.pop();
-var last = friendAge.pop();
-var another = friendAge.push(100);
-console.log(another);f
-console.log(last);
-console.log(another);
+ var lastItem = friendAge.pop();
+console.log(friendAge);
+console.log(lastItem); */
+
+friendAge.unshift(390);
+console.log(friendAge);
+
+
+

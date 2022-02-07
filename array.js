@@ -1,16 +1,11 @@
-//array
+var friendAge = [12, 23, 34, 45, 56, 67, 78, 89, 90];
+var muirChancerFee = [12, 23, 34, 45, 56, 67, 78, 89, 90];
 
-var friendAge = [11, 22, 33, 44, 55, 66, 77, 88, 99];
+var fruits = ["apple", "banana", "orange", "pineapple", "strawberry"];
+var naikas = ['mahi','opu','sunneleone','priyanka','kopila'];
 
-var muriChanachurFee = [23, 45, 67, 89, 101];
-
-var naikas = ["mahi", "muri", "chanachur", "naika"];
 
 var oddNumbers = [1, 3, 5, 7, 9];
-var vowels = ["a", "e", "i", "o", "u"];
+var vowels = ['a', 'e', 'i', 'o', 'u'];
 
-// console.log(naikas);
-// console.log(naikas.length);
-
-var vowelsCount = vowels.length;
-console.log(vowelsCount);
+console.log(typeof naikas);
